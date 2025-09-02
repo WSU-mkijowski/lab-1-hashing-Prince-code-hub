@@ -28,12 +28,8 @@ learned/struggled with for task 1 here
 
 ### Task 2: Crypto Mining
 
-**Reminder Deliverable:** Is your "mining" code in this repository (`mining/`)?
-
- yes
-**Reminder Deliverable:** Is your nonce + word combos in `coins.txt`?
-
- yes
+**Reminder Deliverable:** Is your "mining" code in this repository (`mining/`)?  yes
+**Reminder Deliverable:** Is your nonce + word combos in `coins.txt`?  yes
 
 Answer the following:
 
