@@ -1,7 +1,7 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/SPs4PNWX)
 # Lab 1 : CEG 3400 Intro to Cyber Security
 
-## Name:
+## Name: Prince Patel
 
 ### Task 1: Hashing
 
@@ -28,8 +28,8 @@ learned/struggled with for task 1 here
 
 ### Task 2: Crypto Mining
 
-**Reminder Deliverable:** Is your "mining" code in this repository (`mining/`)?
-**Reminder Deliverable:** Is your nonce + word combos in `coins.txt`?
+**Reminder Deliverable:** Is your "mining" code in this repository (`mining/`)? yes
+**Reminder Deliverable:** Is your nonce + word combos in `coins.txt`? yes
 
 Answer the following:
 
@@ -37,7 +37,8 @@ Answer the following:
 hash)
 
 ```
-
+2Jail #0000 one 
+819nature #00000 one
 ```
 
 * How many words were in your dictionary?
