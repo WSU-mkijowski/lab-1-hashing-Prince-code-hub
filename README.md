@@ -45,8 +45,13 @@ hash)
 ```
 
 * How many words were in your dictionary?
+- I made 3 dictionary, one with 500 words, second with 1021 words and third one with 1071 words.
+
 * How many nonces did your code iterate over?
+- I iterate over 0 to 999, that means 1000 nonces.
+
 * What was the maximum number of hashes your code *could* compute given the above?
+- 
 * What did you think about Task 2?
 * Is there a better way than brute force to attempt to get higher valued coins?
 * Why or why not?
