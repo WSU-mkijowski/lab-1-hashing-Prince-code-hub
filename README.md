@@ -68,3 +68,7 @@ please put any cool bash one-liners or other piped commands you
 learned/struggled with for task 2 here
 ```
 
+
+[I learnt from this website how to read from files for this part's script](https://stackoverflow.com/questions/10929453/read-a-file-line-by-line-assigning-the-value-to-a-variable)
+
+[I learnt why we use -n for echo in script when we pipe that with sha256sum from this link](https://stackoverflow.com/questions/38021348/how-can-i-echo-out-things-without-a-newline)
