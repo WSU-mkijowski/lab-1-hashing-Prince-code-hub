@@ -51,10 +51,16 @@ hash)
 - I iterate over 0 to 999, that means 1000 nonces.
 
 * What was the maximum number of hashes your code *could* compute given the above?
-- 
+- It should be around 1546000  
+  
 * What did you think about Task 2?
-* Is there a better way than brute force to attempt to get higher valued coins?
+- To be honest, at first i thought it would be hard but once i finished my scripting it was a smooth sailing.  
+
+* Is there a better way than brute force to attempt to get higher valued coins? 
+- I have never tried anything like this before. so there maybe another ways but right now for 3x 0 we can use bruteforce. 
+
 * Why or why not?
+- When i was doing hashed for 5 leading zeroes it was very time consuming so if i were to use large dictionary than i have used i would probabaly look for other ways to find more leading zeros.
 
 
 ```bash
