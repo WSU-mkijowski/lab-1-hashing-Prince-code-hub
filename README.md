@@ -6,19 +6,24 @@
 ### Task 1: Hashing
 
 **Reminder Deliverable:** Is your `salted-data.csv` in this repository?
+  * yes
 
 Answer the following in this file:
 
 * How many unique users are in the data?
+  * 42 unique users
 * How many salts did you create?
+  * i have created 1303 salts cause i have made them nonces.
 * How many possible combinations will I need to try to figure out the secret ID
   of all students (assume I know all potential secret IDs and have your 
   `salted-data.csv`)
+  * Well if you already know potential secret IDs you will know the salt from the salted-data.csv. in worst case scenario if someone used one salt for one person so in worst case you have to try 42 * 1303 = 54726.
 * Instead of salts, if you were to use a nonce (unique number for each hashed
   field) how many possible combinations would I need to try?
+  * You still have to try 54726 tries as per my knowledge.
 * Given the above, if this quiz data were *actual* class data, say for example
   your final exam, how would you store this dataset?  Why?
-
+  * If i were to store to the data, i would reduce the permissions to that file, i try to do MFA or passkeys for that as well. Cause i dont want anyone to read and write the file without having proper permission and qualification.
 ```bash
 please put any cool bash one-liners or other piped commands you
 learned/struggled with for task 1 here
