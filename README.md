@@ -28,7 +28,7 @@ Answer the following in this file:
 please put any cool bash one-liners or other piped commands you
 learned/struggled with for task 1 here
 ```
-
+[Website for how to incremet something in script](https://stackoverflow.com/questions/21035121/increment-variable-value-by-1-shell-programming)
 ---
 
 ### Task 2: Crypto Mining
