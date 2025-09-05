@@ -5,3 +5,5 @@ Note: a starter script is included in this directory, this script is probably ba
 since it was written by me in < 5 minutes so probably has things like relative paths
 and no comments...
 
+
+I have put my script and all dictionary in myScript made in miner directory.
